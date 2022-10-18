@@ -19,3 +19,6 @@
     width: 30px;
     height: 70ox;
 }
+.active {
+    color: red;
+}
